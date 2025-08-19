@@ -20,6 +20,10 @@ print(14/2)
 number = 14/2
 print(number % 5)
 
+#create variables
+x = 10/2
+print(x % 5)
+
 #Variables Exercise
 student1_mark = 85
 student2_mark = 50
